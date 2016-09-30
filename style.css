@@ -1,0 +1,24 @@
+body { 
+    background: #42e2f4;
+    background-image: linear-gradient(to right, black 1%, white 80%), url('./images/seigaiha.png');
+    background-blend-mode: overlay;
+}
+#p1 {
+    background-color: #ffffff;
+    border: none;
+    margin: 19px;
+    padding: 24px;
+}
+#p2 {
+    background-color: aliceblue;
+    border:none;    
+    }
+#navigation {
+    background-color: cadetblue;
+    border: none;
+    width: 100%;
+    color: black;
+}
+#ul {
+    color: black;
+}
